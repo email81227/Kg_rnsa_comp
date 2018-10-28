@@ -1,2 +1,4 @@
 # Kg_rnsa_comp
-Kaggle RNSA competition
+RNSA Pneumonia Detection Challenge in Kaggle
+
+https://www.kaggle.com/c/rsna-pneumonia-detection-challenge/overview
